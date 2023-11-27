@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Nur-A-Alam Siddiqi</h1>
+<h1 align="center">Hi 👋, I'm Nure Alom Ovi</h1>
 <h3 align="center">A passionate Cyber Security Enthusiast from Bangladesh</h3>
 
 - 🔭 I’m currently working on **Red teaming**
