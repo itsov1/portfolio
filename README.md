@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@itsovi](https://medium.com/@itsovi)
 
-- 💬 Ask me about **cyber security, penetration testing, web application testing**
+- 💬 Ask me about **cyber security, penetration testing, web application testing, Red Team**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
